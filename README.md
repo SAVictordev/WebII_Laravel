@@ -4,7 +4,7 @@ Repositório destinado aos estudos, atividades e projetos desenvolvidos durante 
 
 O objetivo deste repositório é registrar minha evolução no aprendizado do framework **Laravel**, explorando seus principais recursos, conceitos e ferramentas para o desenvolvimento de aplicações web utilizando PHP.
 
-## 📚 Sobre a disciplina
+##  Sobre a disciplina
 
 Durante a disciplina serão desenvolvidos exercícios e aplicações práticas utilizando o **Laravel**, buscando compreender não apenas o funcionamento do framework, mas também conceitos importantes relacionados ao desenvolvimento web e à organização de aplicações.
 
@@ -29,7 +29,7 @@ Entre os principais assuntos estudados estão:
 * Estrutura e organização de projetos Laravel
 * Outros recursos e conceitos relacionados ao desenvolvimento web
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * **PHP**
 * **Laravel**
@@ -41,7 +41,7 @@ Entre os principais assuntos estudados estão:
 * **Git**
 * **GitHub**
 
-## 🎯 Objetivos
+##  Objetivos
 
 Este repositório tem como principais objetivos:
 
@@ -58,7 +58,7 @@ Este repositório tem como principais objetivos:
 * Registrar a evolução dos estudos durante a disciplina.
 
 
-## 📖 Conteúdos estudados
+##  Conteúdos estudados
 
 O repositório acompanhará a evolução dos estudos, incluindo exemplos e atividades relacionadas a diferentes recursos do Laravel.
 
@@ -99,7 +99,7 @@ Desenvolvimento das operações básicas de:
 * **Update**
 * **Delete**
 
-## 📌 Status
+##  Status
 
 **Em desenvolvimento**
 
@@ -113,4 +113,4 @@ Estudos realizados na disciplina **Desenvolvimento para Web II**.
 
 ---
 
-⭐ Este repositório tem como finalidade documentar minha jornada de aprendizado com Laravel e servir como registro das atividades desenvolvidas durante a disciplina.
+Este repositório tem como finalidade documentar minha jornada de aprendizado com Laravel e servir como registro das atividades desenvolvidas durante a disciplina.
