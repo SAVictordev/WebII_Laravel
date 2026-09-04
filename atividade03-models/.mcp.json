@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "wsl.exe",
+            "args": [
+                "/home/alunoifpe/.config/herd-lite/bin/php",
+                "/home/alunoifpe/PHP_start/nova-pasta-web2-laravel/atividade02-models/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
